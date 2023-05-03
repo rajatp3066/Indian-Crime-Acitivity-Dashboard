@@ -1,0 +1,37 @@
+﻿S.No,State/UT,Name,2019,2020,2021,midPopulation,RateofMurder,ChargesSheetingRate,Total Murder
+1,State,Andhra Pradesh,870,853,956,528.5,1.8,91.7,2679
+2,State,Arunachal Pradesh,60,45,49,15.4,3.2,78.9,154
+3,State,Assam,1235,1131,1192,351.6,3.4,46.8,3558
+4,State,Bihar,3138,3150,2799,1237,2.3,90,9087
+5,State,Chhattisgarh,913,972,1007,296.1,3.4,92.4,2892
+6,State,Goa,33,34,26,15.6,1.7,95.5,93
+7,State,Gujarat,993,982,1010,700.8,1.4,92.3,2985
+8,State,Haryana,1137,1143,1112,296,3.8,73.7,3392
+9,State,Himachal Pradesh,70,91,86,74.1,1.2,85.1,247
+10,State,Jharkhand,1626,1592,1573,386.4,4.1,84.6,4791
+11,State,Karnataka,1314,1331,1357,669.9,2,91.5,4002
+12,State,Kerala,323,306,337,355.4,0.9,93.5,966
+13,State,Madhya Pradesh,1795,2101,2034,848.6,2.4,94.1,5930
+14,State,Maharashtra,2142,2163,2330,1247.6,1.9,91.9,6635
+15,State,Manipur,56,46,46,31.7,1.5,42.2,148
+16,State,Meghalaya,68,79,80,33,2.4,40.6,227
+17,State,Mizoram,22,28,24,12.2,2,91.3,74
+18,State,Nagaland,25,25,27,22,1.2,75,77
+19,State,Odisha,1356,1470,1394,457.9,3,81.1,4220
+20,State,Punjab,679,757,723,304,2.4,83.7,2159
+21,State,Rajasthan,1659,1719,1786,795.7,2.2,61.7,5164
+22,State,Sikkim,17,11,14,6.8,2.1,86.7,42
+23,State,Tamil Nadu,1745,1661,1686,764.8,2.2,96.6,5092
+24,State,Telangana,839,802,1026,377.7,2.7,93.3,2667
+25,State,Tripura,144,114,122,40.8,3,80.5,380
+26,State,Uttar Pradesh,3806,3779,3717,2317,1.6,84.6,11302
+27,State,Uttarakhand,199,160,208,114.4,1.8,79.1,567
+28,State,West Bengal,1930,1948,1884,982.9,1.9,86,5762
+29,UT,A&N Islands,13,5,16,4,4,100,34
+30,UT,Chandigarh,26,22,17,12.1,1.4,80,65
+31,UT,D&N Haveli and Daman & Diu+,13,13,14,11.1,1.3,93.3,40
+32,UT,Delhi,521,472,459,207,2.2,95.6,1452
+33,UT,Jammu & Kashmir*,119,149,136,134.4,1,79.9,404
+34,UT,Ladakh @,-,0,5,3,1.7,100,5
+35,UT,Lakshadweep,0,0,1,0.7,1.5,-,1
+36,UT,Puducherry,29,39,19,15.8,1.2,97.3,87

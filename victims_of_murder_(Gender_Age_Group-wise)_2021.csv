@@ -1,0 +1,361 @@
+﻿S.No,Name,Male,Female,Trans,Total,Age,Status
+1,Andhra Pradesh,5,10,0,15,<6,Child
+2,Arunachal Pradesh,0,0,0,0,<6,Child
+3,Assam,3,2,0,5,<6,Child
+4,Bihar,6,3,0,9,<6,Child
+5,Chhattisgarh,15,5,0,20,<6,Child
+6,Goa,0,1,0,1,<6,Child
+7,Gujarat,24,26,0,50,<6,Child
+8,Haryana,10,8,0,18,<6,Child
+9,Himachal Pradesh,1,4,0,5,<6,Child
+10,Jharkhand,0,0,0,0,<6,Child
+11,Karnataka,19,28,0,47,<6,Child
+12,Kerala,18,12,0,30,<6,Child
+13,Madhya Pradesh,21,13,0,34,<6,Child
+14,Maharashtra,33,30,0,63,<6,Child
+15,Manipur,1,0,0,1,<6,Child
+16,Meghalaya,0,0,0,0,<6,Child
+17,Mizoram,0,0,0,0,<6,Child
+18,Nagaland,1,0,0,1,<6,Child
+19,Odisha,1,0,0,1,<6,Child
+20,Punjab,4,10,0,14,<6,Child
+21,Rajasthan,1,5,0,6,<6,Child
+22,Sikkim,0,0,0,0,<6,Child
+23,Tamil Nadu,14,24,0,38,<6,Child
+24,Telangana,12,6,0,18,<6,Child
+25,Tripura,2,0,0,2,<6,Child
+26,Uttar Pradesh,25,19,0,44,<6,Child
+27,Uttarakhand,0,0,0,0,<6,Child
+28,West Bengal,5,10,0,15,<6,Child
+29,A&N Islands,0,1,0,1,<6,Child
+30,Chandigarh,0,0,0,0,<6,Child
+31,D&N Haveli and Daman & Diu,0,1,0,1,<6,Child
+32,Delhi,3,1,0,4,<6,Child
+33,Jammu & Kashmir,2,0,0,2,<6,Child
+34,Ladakh,0,0,0,0,<6,Child
+35,Lakshadweep,0,1,0,1,<6,Child
+36,Puducherry,0,0,0,0,<6,Child
+37,Andhra Pradesh,5,7,0,12,<12,Child
+38,Arunachal Pradesh,0,1,0,1,<12,Child
+39,Assam,3,8,0,11,<12,Child
+40,Bihar,18,10,0,28,<12,Child
+41,Chhattisgarh,6,5,0,11,<12,Child
+42,Goa,0,0,0,0,<12,Child
+43,Gujarat,11,5,0,16,<12,Child
+44,Haryana,5,5,0,10,<12,Child
+45,Himachal Pradesh,0,1,0,1,<12,Child
+46,Jharkhand,2,0,0,2,<12,Child
+47,Karnataka,17,12,0,29,<12,Child
+48,Kerala,6,7,0,13,<12,Child
+49,Madhya Pradesh,16,20,0,36,<12,Child
+50,Maharashtra,24,14,0,38,<12,Child
+51,Manipur,0,0,0,0,<12,Child
+52,Meghalaya,0,1,0,1,<12,Child
+53,Mizoram,1,0,0,1,<12,Child
+54,Nagaland,0,0,0,0,<12,Child
+55,Odisha,0,0,0,0,<12,Child
+56,Punjab,5,6,0,11,<12,Child
+57,Rajasthan,3,4,0,7,<12,Child
+58,Sikkim,0,0,0,0,<12,Child
+59,Tamil Nadu,9,8,0,17,<12,Child
+60,Telangana,6,2,0,8,<12,Child
+61,Tripura,1,2,0,3,<12,Child
+62,Uttar Pradesh,30,37,0,67,<12,Child
+63,Uttarakhand,2,0,0,2,<12,Child
+64,West Bengal,7,8,0,15,<12,Child
+65,A&N Islands,0,0,0,0,<12,Child
+66,Chandigarh,0,1,0,1,<12,Child
+67,D&N Haveli and Daman & Diu,0,0,0,0,<12,Child
+68,Delhi,5,3,0,8,<12,Child
+69,Jammu & Kashmir,1,1,0,2,<12,Child
+70,Ladakh,0,0,0,0,<12,Child
+71,Lakshadweep,0,0,0,0,<12,Child
+72,Puducherry,0,0,0,0,<12,Child
+73,Andhra Pradesh,7,0,0,7,<16,Child
+74,Arunachal Pradesh,0,0,0,0,<16,Child
+75,Assam,2,10,0,12,<16,Child
+76,Bihar,27,20,0,47,<16,Child
+77,Chhattisgarh,8,2,0,10,<16,Child
+78,Goa,0,0,0,0,<16,Child
+79,Gujarat,4,4,0,8,<16,Child
+80,Haryana,6,5,0,11,<16,Child
+81,Himachal Pradesh,1,1,0,2,<16,Child
+82,Jharkhand,2,2,0,4,<16,Child
+83,Karnataka,7,9,0,16,<16,Child
+84,Kerala,1,3,0,4,<16,Child
+85,Madhya Pradesh,19,20,0,39,<16,Child
+86,Maharashtra,17,13,0,30,<16,Child
+87,Manipur,0,0,0,0,<16,Child
+88,Meghalaya,0,0,0,0,<16,Child
+89,Mizoram,0,0,0,0,<16,Child
+90,Nagaland,0,0,0,0,<16,Child
+91,Odisha,0,0,0,0,<16,Child
+92,Punjab,5,2,0,7,<16,Child
+93,Rajasthan,6,2,0,8,<16,Child
+94,Sikkim,0,0,0,0,<16,Child
+95,Tamil Nadu,3,2,0,5,<16,Child
+96,Telangana,3,1,0,4,<16,Child
+97,Tripura,0,0,0,0,<16,Child
+98,Uttar Pradesh,54,43,0,97,<16,Child
+99,Uttarakhand,0,0,0,0,<16,Child
+100,West Bengal,8,6,0,14,<16,Child
+101,A&N Islands,0,0,0,0,<16,Child
+102,Chandigarh,0,0,0,0,<16,Child
+103,D&N Haveli and Daman & Diu,0,0,0,0,<16,Child
+104,Delhi,5,1,0,6,<16,Child
+105,Jammu & Kashmir,2,0,0,2,<16,Child
+106,Ladakh,0,0,0,0,<16,Child
+107,Lakshadweep,0,0,0,0,<16,Child
+108,Puducherry,0,0,0,0,<16,Child
+109,Andhra Pradesh,2,2,0,4,<18,Child
+110,Arunachal Pradesh,0,0,0,0,<18,Child
+111,Assam,4,9,0,13,<18,Child
+112,Bihar,15,14,0,29,<18,Child
+113,Chhattisgarh,7,8,0,15,<18,Child
+114,Goa,0,0,0,0,<18,Child
+115,Gujarat,9,3,0,12,<18,Child
+116,Haryana,6,2,0,8,<18,Child
+117,Himachal Pradesh,0,0,0,0,<18,Child
+118,Jharkhand,2,4,0,6,<18,Child
+119,Karnataka,9,7,0,16,<18,Child
+120,Kerala,2,1,0,3,<18,Child
+121,Madhya Pradesh,9,9,0,18,<18,Child
+122,Maharashtra,11,10,0,21,<18,Child
+123,Manipur,0,0,0,0,<18,Child
+124,Meghalaya,0,2,0,2,<18,Child
+125,Mizoram,0,0,0,0,<18,Child
+126,Nagaland,0,0,0,0,<18,Child
+127,Odisha,2,6,0,8,<18,Child
+128,Punjab,5,2,0,7,<18,Child
+129,Rajasthan,5,0,0,5,<18,Child
+130,Sikkim,0,0,0,0,<18,Child
+131,Tamil Nadu,4,5,0,9,<18,Child
+132,Telangana,2,7,0,9,<18,Child
+133,Tripura,0,0,0,0,<18,Child
+134,Uttar Pradesh,27,31,0,58,<18,Child
+135,Uttarakhand,2,1,0,3,<18,Child
+136,West Bengal,8,6,0,14,<18,Child
+137,A&N Islands,0,0,0,0,<18,Child
+138,Chandigarh,0,0,0,0,<18,Child
+139,D&N Haveli and Daman & Diu,0,0,0,0,<18,Child
+140,Delhi,8,3,0,11,<18,Child
+141,Jammu & Kashmir,1,0,0,1,<18,Child
+142,Ladakh,0,0,0,0,<18,Child
+143,Lakshadweep,0,0,0,0,<18,Child
+144,Puducherry,0,0,0,0,<18,Child
+145,Andhra Pradesh,19,19,0,38,TotalChild,Child
+146,Arunachal Pradesh,0,1,0,1,TotalChild,Child
+147,Assam,12,29,0,41,TotalChild,Child
+148,Bihar,66,47,0,113,TotalChild,Child
+149,Chhattisgarh,36,20,0,56,TotalChild,Child
+150,Goa,0,1,0,1,TotalChild,Child
+151,Gujarat,48,38,0,86,TotalChild,Child
+152,Haryana,27,20,0,47,TotalChild,Child
+153,Himachal Pradesh,2,6,0,8,TotalChild,Child
+154,Jharkhand,6,6,0,12,TotalChild,Child
+155,Karnataka,52,56,0,108,TotalChild,Child
+156,Kerala,27,23,0,50,TotalChild,Child
+157,Madhya Pradesh,65,62,0,127,TotalChild,Child
+158,Maharashtra,85,67,0,152,TotalChild,Child
+159,Manipur,1,0,0,1,TotalChild,Child
+160,Meghalaya,0,3,0,3,TotalChild,Child
+161,Mizoram,1,0,0,1,TotalChild,Child
+162,Nagaland,1,0,0,1,TotalChild,Child
+163,Odisha,3,6,0,9,TotalChild,Child
+164,Punjab,19,20,0,39,TotalChild,Child
+165,Rajasthan,15,11,0,26,TotalChild,Child
+166,Sikkim,0,0,0,0,TotalChild,Child
+167,Tamil Nadu,30,39,0,69,TotalChild,Child
+168,Telangana,23,16,0,39,TotalChild,Child
+169,Tripura,3,2,0,5,TotalChild,Child
+170,Uttar Pradesh,136,130,0,266,TotalChild,Child
+171,Uttarakhand,4,1,0,5,TotalChild,Child
+172,West Bengal,28,30,0,58,TotalChild,Child
+173,A&N Islands,0,1,0,1,TotalChild,Child
+174,Chandigarh,0,1,0,1,TotalChild,Child
+175,D&N Haveli and Daman & Diu,0,1,0,1,TotalChild,Child
+176,Delhi,21,8,0,29,TotalChild,Child
+177,Jammu & Kashmir,6,1,0,7,TotalChild,Child
+178,Ladakh,0,0,0,0,TotalChild,Child
+179,Lakshadweep,0,1,0,1,TotalChild,Child
+180,Puducherry,0,0,0,0,TotalChild,Child
+181,Andhra Pradesh,165,82,1,248,<30,Adult
+182,Arunachal Pradesh,5,3,0,8,<30,Adult
+183,Assam,260,97,0,357,<30,Adult
+184,Bihar,828,290,0,1118,<30,Adult
+185,Chhattisgarh,221,132,0,353,<30,Adult
+186,Goa,1,4,0,5,<30,Adult
+187,Gujarat,259,62,0,321,<30,Adult
+188,Haryana,334,106,0,440,<30,Adult
+189,Himachal Pradesh,19,6,0,25,<30,Adult
+190,Jharkhand,561,181,0,742,<30,Adult
+191,Karnataka,274,116,1,391,<30,Adult
+192,Kerala,30,17,0,47,<30,Adult
+193,Madhya Pradesh,425,192,0,617,<30,Adult
+194,Maharashtra,582,195,4,781,<30,Adult
+195,Manipur,17,3,0,20,<30,Adult
+196,Meghalaya,28,6,0,34,<30,Adult
+197,Mizoram,4,1,0,5,<30,Adult
+198,Nagaland,11,4,0,15,<30,Adult
+199,Odisha,565,473,0,1038,<30,Adult
+200,Punjab,172,32,0,204,<30,Adult
+201,Rajasthan,453,169,0,622,<30,Adult
+202,Sikkim,2,0,0,2,<30,Adult
+203,Tamil Nadu,365,124,0,489,<30,Adult
+204,Telangana,208,79,0,287,<30,Adult
+205,Tripura,25,22,0,47,<30,Adult
+206,Uttar Pradesh,1081,405,0,1486,<30,Adult
+207,Uttarakhand,60,20,0,80,<30,Adult
+208,West Bengal,406,425,0,831,<30,Adult
+209,A&N Islands,3,2,0,5,<30,Adult
+210,Chandigarh,6,1,0,7,<30,Adult
+211,D&N Haveli and Daman & Diu,2,1,0,3,<30,Adult
+212,Delhi,162,54,0,216,<30,Adult
+213,Jammu & Kashmir,31,9,0,40,<30,Adult
+214,Ladakh,2,0,0,2,<30,Adult
+215,Lakshadweep,0,0,0,0,<30,Adult
+216,Puducherry,16,5,0,21,<30,Adult
+217,Andhra Pradesh,271,137,1,409,<45,Adult
+218,Arunachal Pradesh,26,5,0,31,<45,Adult
+219,Assam,594,108,0,702,<45,Adult
+220,Bihar,945,229,0,1174,<45,Adult
+221,Chhattisgarh,223,138,0,361,<45,Adult
+222,Goa,6,3,0,9,<45,Adult
+223,Gujarat,302,93,0,395,<45,Adult
+224,Haryana,347,98,0,445,<45,Adult
+225,Himachal Pradesh,16,11,0,27,<45,Adult
+226,Jharkhand,506,151,0,657,<45,Adult
+227,Karnataka,446,164,1,611,<45,Adult
+228,Kerala,79,27,0,106,<45,Adult
+229,Madhya Pradesh,532,239,0,771,<45,Adult
+230,Maharashtra,637,210,1,848,<45,Adult
+231,Manipur,18,2,0,20,<45,Adult
+232,Meghalaya,32,4,0,36,<45,Adult
+233,Mizoram,7,3,0,10,<45,Adult
+234,Nagaland,17,3,0,20,<45,Adult
+235,Odisha,187,97,0,284,<45,Adult
+236,Punjab,226,57,0,283,<45,Adult
+237,Rajasthan,667,145,0,812,<45,Adult
+238,Sikkim,6,2,0,8,<45,Adult
+239,Tamil Nadu,478,133,0,611,<45,Adult
+240,Telangana,341,104,0,445,<45,Adult
+241,Tripura,35,15,0,50,<45,Adult
+242,Uttar Pradesh,978,311,0,1289,<45,Adult
+243,Uttarakhand,72,24,0,96,<45,Adult
+244,West Bengal,488,285,0,773,<45,Adult
+245,A&N Islands,5,4,0,9,<45,Adult
+246,Chandigarh,4,2,0,6,<45,Adult
+247,D&N Haveli and Daman & Diu,3,1,0,4,<45,Adult
+248,Delhi,146,33,0,179,<45,Adult
+249,Jammu & Kashmir,73,10,0,83,<45,Adult
+250,Ladakh,2,1,0,3,<45,Adult
+251,Lakshadweep,0,0,0,0,<45,Adult
+252,Puducherry,0,0,0,0,<45,Adult
+253,Andhra Pradesh,166,64,0,230,<60,Adult
+254,Arunachal Pradesh,9,5,0,14,<60,Adult
+255,Assam,141,22,0,163,<60,Adult
+256,Bihar,308,88,0,396,<60,Adult
+257,Chhattisgarh,144,70,0,214,<60,Adult
+258,Goa,9,0,0,9,<60,Adult
+259,Gujarat,136,41,0,177,<60,Adult
+260,Haryana,132,33,0,165,<60,Adult
+261,Himachal Pradesh,20,2,0,22,<60,Adult
+262,Jharkhand,144,45,0,189,<60,Adult
+263,Karnataka,169,63,0,232,<60,Adult
+264,Kerala,62,29,0,91,<60,Adult
+265,Madhya Pradesh,341,97,0,438,<60,Adult
+266,Maharashtra,328,86,0,414,<60,Adult
+267,Manipur,9,1,0,10,<60,Adult
+268,Meghalaya,9,1,0,10,<60,Adult
+269,Mizoram,4,5,0,9,<60,Adult
+270,Nagaland,2,1,0,3,<60,Adult
+271,Odisha,48,24,0,72,<60,Adult
+272,Punjab,125,47,0,172,<60,Adult
+273,Rajasthan,274,49,0,323,<60,Adult
+274,Sikkim,3,1,0,4,<60,Adult
+275,Tamil Nadu,280,89,1,370,<60,Adult
+276,Telangana,181,46,0,227,<60,Adult
+277,Tripura,16,8,0,24,<60,Adult
+278,Uttar Pradesh,537,144,0,681,<60,Adult
+279,Uttarakhand,21,5,0,26,<60,Adult
+280,West Bengal,182,71,0,253,<60,Adult
+281,A&N Islands,2,0,0,2,<60,Adult
+282,Chandigarh,1,0,0,1,<60,Adult
+283,D&N Haveli and Daman & Diu,4,1,0,5,<60,Adult
+284,Delhi,31,6,0,37,<60,Adult
+285,Jammu & Kashmir,26,6,0,32,<60,Adult
+286,Ladakh,0,0,0,0,<60,Adult
+287,Lakshadweep,0,0,0,0,<60,Adult
+288,Puducherry,0,0,0,0,<60,Adult
+289,Andhra Pradesh,33,27,0,60,>60,Adult
+290,Arunachal Pradesh,0,0,0,0,>60,Adult
+291,Assam,3,3,0,6,>60,Adult
+292,Bihar,24,1,0,25,>60,Adult
+293,Chhattisgarh,50,23,0,73,>60,Adult
+294,Goa,1,3,0,4,>60,Adult
+295,Gujarat,41,26,0,67,>60,Adult
+296,Haryana,38,9,0,47,>60,Adult
+297,Himachal Pradesh,7,3,0,10,>60,Adult
+298,Jharkhand,6,0,0,6,>60,Adult
+299,Karnataka,51,36,0,87,>60,Adult
+300,Kerala,32,29,0,61,>60,Adult
+301,Madhya Pradesh,86,36,0,122,>60,Adult
+302,Maharashtra,110,76,0,186,>60,Adult
+303,Manipur,1,0,0,1,>60,Adult
+304,Meghalaya,0,0,0,0,>60,Adult
+305,Mizoram,1,0,0,1,>60,Adult
+306,Nagaland,0,0,0,0,>60,Adult
+307,Odisha,4,4,0,8,>60,Adult
+308,Punjab,46,19,0,65,>60,Adult
+309,Rajasthan,8,2,0,10,>60,Adult
+310,Sikkim,1,1,0,2,>60,Adult
+311,Tamil Nadu,135,67,0,202,>60,Adult
+312,Telangana,37,19,0,56,>60,Adult
+313,Tripura,3,1,0,4,>60,Adult
+314,Uttar Pradesh,81,22,0,103,>60,Adult
+315,Uttarakhand,5,2,0,7,>60,Adult
+316,West Bengal,3,1,0,4,>60,Adult
+317,A&N Islands,1,0,0,1,>60,Adult
+318,Chandigarh,1,2,0,3,>60,Adult
+319,D&N Haveli and Daman & Diu,1,0,0,1,>60,Adult
+320,Delhi,8,9,0,17,>60,Adult
+321,Jammu & Kashmir,1,1,0,2,>60,Adult
+322,Ladakh,0,0,0,0,>60,Adult
+323,Lakshadweep,0,0,0,0,>60,Adult
+324,Puducherry,0,0,0,0,>60,Adult
+325,Andhra Pradesh,635,310,2,947,TotalAdult,Adult
+326,Arunachal Pradesh,40,13,0,53,TotalAdult,Adult
+327,Assam,998,230,0,1228,TotalAdult,Adult
+328,Bihar,2105,608,0,2713,TotalAdult,Adult
+329,Chhattisgarh,638,363,0,1001,TotalAdult,Adult
+330,Goa,17,10,0,27,TotalAdult,Adult
+331,Gujarat,738,222,0,960,TotalAdult,Adult
+332,Haryana,851,246,0,1097,TotalAdult,Adult
+333,Himachal Pradesh,62,22,0,84,TotalAdult,Adult
+334,Jharkhand,1217,377,0,1594,TotalAdult,Adult
+335,Karnataka,940,379,2,1321,TotalAdult,Adult
+336,Kerala,203,102,0,305,TotalAdult,Adult
+337,Madhya Pradesh,1384,564,0,1948,TotalAdult,Adult
+338,Maharashtra,1657,567,5,2229,TotalAdult,Adult
+339,Manipur,45,6,0,51,TotalAdult,Adult
+340,Meghalaya,69,11,0,80,TotalAdult,Adult
+341,Mizoram,16,9,0,25,TotalAdult,Adult
+342,Nagaland,30,8,0,38,TotalAdult,Adult
+343,Odisha,804,598,0,1402,TotalAdult,Adult
+344,Punjab,569,155,0,724,TotalAdult,Adult
+345,Rajasthan,1402,365,0,1767,TotalAdult,Adult
+346,Sikkim,12,4,0,16,TotalAdult,Adult
+347,Tamil Nadu,1258,413,1,1672,TotalAdult,Adult
+348,Telangana,767,248,0,1015,TotalAdult,Adult
+349,Tripura,79,46,0,125,TotalAdult,Adult
+350,Uttar Pradesh,2677,882,0,3559,TotalAdult,Adult
+351,Uttarakhand,158,51,0,209,TotalAdult,Adult
+352,West Bengal,1079,782,0,1861,TotalAdult,Adult
+353,A&N Islands,11,6,0,17,TotalAdult,Adult
+354,Chandigarh,12,5,0,17,TotalAdult,Adult
+355,D&N Haveli and Daman & Diu,10,3,0,13,TotalAdult,Adult
+356,Delhi,347,102,0,449,TotalAdult,Adult
+357,Jammu & Kashmir,131,26,0,157,TotalAdult,Adult
+358,Ladakh,4,1,0,5,TotalAdult,Adult
+359,Lakshadweep,0,0,0,0,TotalAdult,Adult
+360,Puducherry,16,5,0,21,TotalAdult,Adult
